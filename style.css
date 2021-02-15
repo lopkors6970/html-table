@@ -1,0 +1,22 @@
+table{
+    border: 2px solid red;
+    background-color: #f6f6f6;
+    text-align: center;
+    border-collapse:collapse;
+}
+tr td, th {
+    border: 2px solid red;
+    padding: 5px 5px;
+}
+tr th{
+    font-size: 20px;
+}
+tr td{
+    font-size: 17px;
+}
+caption{
+    font-size: 24px;
+    font-weight: 600;
+    color: crimson;
+    margin-bottom: 10px;
+}
